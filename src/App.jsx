@@ -3,6 +3,7 @@ import { useTranslation } from "./hooks/useTranslation";
 import { Navbar } from "./components/shared/Navbar";
 import { Hero } from "./components/landing/Hero";
 import { Features } from "./components/landing/Features";
+import { AppShowVideo } from "./components/landing/AppShowVideo";
 import {
   AppScreensMarquee,
   DashboardGreenShowcase,
@@ -26,6 +27,7 @@ export default function App() {
       <main>
         <Hero key={language} t={t} />
         <Features t={t} />
+        <AppShowVideo t={t} />
         <AppScreensMarquee t={t} />
         <DashboardGreenShowcase t={t} />
         <DownloadSection t={t} />

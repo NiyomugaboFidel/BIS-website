@@ -146,6 +146,14 @@ export const translations = {
     scroll_r7_h: "Health centers under control",
     scroll_r7_p:
       "Manage sites, capacity, and reporting across facilities from one console so regional teams stay aligned with national standards.",
+    app_video_badge: "Platform tour",
+    app_video_h: "The Baho app and dashboard, end to end",
+    app_video_sub:
+      "This walkthrough shows how the patient-facing app and the operations dashboard fit together—one system for guided care, monitoring, alerts, and population-level oversight.",
+    app_video_aria:
+      "Video walkthrough of the Baho mobile application and administrator dashboard",
+    app_video_error:
+      "Playback failed. Add a web-friendly file at /app-show.mp4 (H.264/AAC). Run: npm run encode:app-video — or open the site in Safari if you only have app-show.mov.",
     footer_tagline:
       "Production-oriented health intelligence: prediction, monitoring, and analytics in one stack.",
     footer_survey_cta: "Take the partner survey",
@@ -307,6 +315,14 @@ export const translations = {
     scroll_r7_h: "Pilotage des centres de sante",
     scroll_r7_p:
       "Capacites, sites et reporting sont coordonnes depuis une console pour aligner equipes regionales et exigences nationales.",
+    app_video_badge: "Visite de la plateforme",
+    app_video_h: "Application patient et tableau de bord, de bout en bout",
+    app_video_sub:
+      "Cette video montre comment l'app cote patient et le tableau de bord operations s'articulent : un meme systeme pour le parcours de soins, le suivi, les alertes et le pilotage.",
+    app_video_aria:
+      "Video de demonstration de l'application Baho et du tableau de bord administrateur",
+    app_video_error:
+      "Lecture impossible. Ajoutez /app-show.mp4 (H.264/AAC), par ex. npm run encode:app-video, ou ouvrez le site dans Safari si vous n'avez que app-show.mov.",
     footer_tagline:
       "Intelligence sante orientee production : prediction, suivi et analytique dans une seule stack.",
     footer_survey_cta: "Repondre a l'enquete partenaire",
@@ -468,6 +484,14 @@ export const translations = {
     scroll_r7_h: "Gucunga ibigo by'ubuzima",
     scroll_r7_p:
       "Ahantu, ubushobozi n'raporo bihuza mu kibanza kimwe kugira ngo itsinda ry'akarere rihuze n'amabwiriza y'igihugu.",
+    app_video_badge: "Gutembera urubuga",
+    app_video_h: "Porogaramu y'umurwayi na dashboard hamwe",
+    app_video_sub:
+      "Iyi videwo igaragaza uko porogaramu y'abarwayi ihura na dashboard y'abayobozi—sisitemu imwe yo gukurikirana, amatangazo, n'ubuyobozi ku rwego rw'abaturage.",
+    app_video_aria:
+      "Videwo igaragaza porogaramu ya Baho na dashboard y'uyuyobora",
+    app_video_error:
+      "Ntibishoboka gukina. Shyiraho /app-show.mp4 (H.264/AAC), ukoreshe npm run encode:app-video, cyangwa fungura Safari niba ufite gusa app-show.mov.",
     footer_tagline:
       "Ubwenge bw'ubuzima bwiteganyiriza: guhanura, gukurikirana n'isesengura hamwe.",
     footer_survey_cta: "Uzuza ubushakashatsi bw'abafatanyabikorwa",

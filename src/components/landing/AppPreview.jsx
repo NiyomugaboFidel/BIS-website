@@ -5,8 +5,9 @@ import { useRevealOnScroll } from "../../hooks/useRevealOnScroll";
 
 const appImages = [
   { src: media.app.aiChat, altKey: "media_alt_app_ai_chat" },
-  { src: media.app.map, altKey: "media_alt_app_map" },
   { src: media.app.aiChats, altKey: "media_alt_app_chats" },
+  { src: media.app.map, altKey: "media_alt_app_map" },
+
 ];
 
 const dashboardRows = [

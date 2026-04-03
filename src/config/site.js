@@ -1,6 +1,6 @@
 /** Public marketing site (encoded in QR codes). Override with VITE_PUBLIC_SITE_URL if needed. */
 const publicSiteBase = (
-  import.meta.env.VITE_PUBLIC_SITE_URL ?? "https://bahohealth.vercel.app"
+  import.meta.env.VITE_PUBLIC_SITE_URL ?? "https://baho-rwanda.vercel.app"
 ).replace(/\/+$/, "");
 
 export const PUBLIC_SITE_URL = publicSiteBase;
