@@ -7,8 +7,8 @@ export const PUBLIC_SITE_URL = publicSiteBase;
 /** Exact string embedded in QR scanners (trailing slash as deployed). */
 export const SITE_QR_URL = `${publicSiteBase}/`;
 
-export const ADMIN_DASHBOARD_URL =
-  import.meta.env.VITE_ADMIN_DASHBOARD_URL ?? "/dashboard";
+/** Live admin app (fixed URL; not read from env). */
+export const ADMIN_DASHBOARD_URL = "https://baho-dashobard.vercel.app/";
 
 export const IOS_APP_URL =
   import.meta.env.VITE_IOS_APP_URL ??
